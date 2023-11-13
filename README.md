@@ -1,2 +1,2 @@
 # git-course
-##zero programming course
+## zero programming course
